@@ -25,8 +25,7 @@ Streamlit Community Cloud.
 
 ## c. GitHub Repository Link
 
-> **TODO:** Replace with your actual GitHub repository link after pushing this project.
-> Example: `https://github.com/<your-username>/ml-assignment2-breast-cancer`
+> https://github.com/2025ac05077/ml-assignment-2
 
 ## d. Models Used
 
@@ -64,7 +63,7 @@ The following 5 classification models were trained on the same dataset
 
 ## e. Streamlit App
 
-- **Live App Link:** > **TODO:** Add your deployed Streamlit Cloud URL here.
+- **Live App Link:** > https://2025ac05077-ml-assignment-2.streamlit.app/
 - **Features:**
   - Dataset upload option (CSV) — upload `test_data.csv`
   - Model selection dropdown (choose among the 5 trained models)
@@ -110,4 +109,8 @@ Then upload `test_data.csv` in the app sidebar, select a model, and view results
 
 ## h. BITS Virtual Lab Screenshot
 
-> **TODO:** Attach the screenshot of running this assignment on the BITS Virtual Lab.
+### 1. VS Code Environment in BITS Virtual Lab
+![BITS Virtual Lab - VS Code](<Screenshot 2026-08-15 at 10.52.30 AM.png>)
+
+### 2. Streamlit Application Running in BITS Virtual Lab
+![BITS Virtual Lab - Streamlit App](<Screenshot 2026-08-15 at 10.54.56 AM.png>)
